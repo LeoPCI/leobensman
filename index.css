@@ -29,7 +29,7 @@ h3 { margin-bottom: -4px; }
 
 .indent {
 	margin-left: 8px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 #about, #projects, #top-bar{
@@ -38,7 +38,7 @@ h3 { margin-bottom: -4px; }
 	margin: auto;
 	text-align: left;
 	width: 360px;
-	height: 550px;
+	height: 560px;
 	margin: 10px;
 	padding: 40px;
 	margin-top: 30px;
@@ -46,6 +46,10 @@ h3 { margin-bottom: -4px; }
 	border-radius: 10px;
 
 	background-color: rgba(0, 0, 0, 0.7);
+}
+
+#github {
+	color: white;
 }
 
 #top-bar {
