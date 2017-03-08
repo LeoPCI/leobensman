@@ -118,10 +118,9 @@ h6 {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
-    background-color: black;
+    background:url(../img/footer_lodyas.png);
     color: white;
     position: relative;
-    background: url(../img/footer_lodyas.png);
 }
 
 .section-heading {
@@ -140,7 +139,7 @@ h6 {
     background: rgba(0,0,0,0.7);
     background-size: cover;
     position: relative;
-    background: url(../img/footer_lodyas.png);
+    background:url(../img/footer_lodyas.png);
 }
 
 .banner h2 {
@@ -296,7 +295,7 @@ a {
 /*about me*/
 .content-section-c {
     padding: 50px 0;
-    background-color: white;
+    background: url(../img/brushed.png);
     position: relative;
     color: black;
     text-align: center;
