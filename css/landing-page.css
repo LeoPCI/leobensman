@@ -227,6 +227,10 @@ a {
 }
 
 /*parallax*/
+#page-content {
+    position: relative;
+}
+
 .intro-header {
     position: absolute;
     width: 100%;

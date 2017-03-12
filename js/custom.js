@@ -1,11 +1,10 @@
 $(document).ready(function() {
 
-
 //PARALLAX FUNCTION
 $(window).scroll(function(e){
   var scrolled = $(window).scrollTop();
   // $('.intro-header').css('top',-(120+scrolled*.64)+'px');
-  $('.background-image').css('top',-(scrolled*.69)+'px');
+  $('.background-image').css('top',-(scrolled*.58)+'px');
 });
 
 // Image Hover
