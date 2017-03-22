@@ -244,8 +244,9 @@ a {
 
 /*Image Hover*/
 .webpiece {
-    height: 250px;
-    width: 460px;
+    height: 260px;
+    width: 490px;
+    margin-top: 80px;
 }
 
 .clickme {
@@ -313,7 +314,6 @@ a {
 }
 
 /*navigation*/
-
 ul a {
     color: white;
 }
